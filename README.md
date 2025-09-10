@@ -4,7 +4,7 @@
   </a>
 </h1>
 # 💫 About Me:
-I am a dedicated and humble person. I complete all my projects seriously. I try to do the same in all my academic projects in university. And I did the same. I am used to working in rush time. I can work under pressure. Now I want to know flutter. Because if I learn it, I’ll do all the development in just one language.
+I am a dedicated and humble person. I complete all my projects seriously. I try to do the same in all my academic projects in university. And I did the same. I am used to working in rush time. I can work under pressure.
 
 
 ## 🌐 Socials:
