@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rumman954&show_icons=true&theme=radical)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;Welcome+To+My+Github+😍;I'm+Md.+Abu+Talha+Rumman;&center=true&size=28">
