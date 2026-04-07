@@ -5,7 +5,7 @@
 </h1>
 # 💫 About Me:
 I am a dedicated and humble person. I complete all my projects seriously. I try to do the same in all my academic projects in university. And I did the same. I am used to working in rush time. I can work under pressure.
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rumman954&show_icons=true&theme=radical)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdabutalha.rumman) 
