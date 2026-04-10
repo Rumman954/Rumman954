@@ -4,7 +4,7 @@
   </a>
 </h1>
 # 💫 About Me:
-I am a dedicated and humble person. I complete all my projects seriously. I try to do the same in all my academic projects in university. And I did the same. I am used to working in rush time. I can work under pressure.
+Computer Science graduate specializing in Software Engineering with a strong foundation in modern web technologies, including JavaScript, React, Next.js, TypeScript, and Tailwind CSS, developed through academic coursework and personal projects. Detail-oriented and quality-driven, with solid knowledge of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC), along with hands-on experience in manual testing, test case design, defect reporting, and test execution. Proficient in tools such as Jira, Postman, and Newman, and passionate about building high-quality, scalable applications while continuously learning software architecture, code design patterns, and professional development workflows in real-world environments.
 
 
 ## 🌐 Socials:
