@@ -34,14 +34,16 @@ Computer Science graduate specializing in Software Engineering with a strong fou
 ### 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Rumman954">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rumman954&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumman954&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/rumman954">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rumman954&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumman954&layout=compact&theme=tokyonight"/>
 </a>
 </p>
 
+###
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rumman954&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumman954&theme=tokyonight"/>
 </p>
 
 ---
@@ -61,15 +63,9 @@ Computer Science graduate specializing in Software Engineering with a strong fou
 ### 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rumman954&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=rumman954&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rumman954&area=true&line=8e2de2&point=0066ff&area_color=00c853&bg_color=0d1117&color=ffffff&title_color=ffffff" alt="Activity graph" height="300"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumman954&area=true&line=8e2de2&point=0066ff&area_color=00c853&bg_color=0d1117&color=ffffff&title_color=ffffff" alt="Activity graph" height="300"/>
 </div>
-
-
-
-###
-## 🏆 GitHub Trophies
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumman954&" alt="rumman954" /></p>
