@@ -34,21 +34,18 @@ Computer Science graduate specializing in Software Engineering with a strong fou
 ### 📊 GitHub Analytics
 
 
----
 
 <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumman954&theme=tokyonight"/>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=rumman954&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=7F77DD&icon_color=1D9E75&text_color=888780" height="165"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rumman954&layout=compact&hide_border=true&bg_color=00000000&title_color=7F77DD&text_color=888780" height="165"/>
 </p>
----
 
 ###
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumman954&theme=tokyonight"/>
+  <img src="https://github-trophies.vercel.app/?username=rumman954&theme=tokyonight"/>
 </p>
-  <img src="https://github-profile-trophy.vercel.app?username=rumman954&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-
 
 ---
 
