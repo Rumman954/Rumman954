@@ -12,7 +12,7 @@ Computer Science graduate specializing in Software Engineering with a strong fou
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdabutalha.rumman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rummanmdabutalha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-abu-talha-rumman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MdAbuTalhaRumm1)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdabutalharumman@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdabutalha.rumman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rummanmdabutalha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-abu-talha-rumman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MdAbuTalhaRumm1)[![gmail](https://img.shields.io/badge/gmail-D14836?logo=gmail&logoColor=white)](mailto:mdabutalharumman@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/8801783891937)
 
 👋 Hi, I’m @Rumman954
 
@@ -24,7 +24,7 @@ Computer Science graduate specializing in Software Engineering with a strong fou
 
 💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB).
 
-📫 Feel free to reach me on mdabutalharumman@gmail.com
+📫 Feel free to reach me on [Gmail](mailto:mdabutalharumman@gmail.com)
 
 ---
 
