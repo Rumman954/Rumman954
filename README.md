@@ -1,3 +1,4 @@
+<img alt="banner" src="https://github.com/Rumman954/Rumman954/blob/main/banner.png" width="100%"/>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;Welcome+To+My+Github+😍;I'm+Md.+Abu+Talha+Rumman;&center=true&size=28">
