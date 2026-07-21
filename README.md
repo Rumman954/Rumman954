@@ -73,6 +73,26 @@ Computer Science graduate specializing in Software Engineering with a strong fou
 
 ---
 
+
+
+
+###
+<h4 align="left">👨🏽‍💻 Other Skills :</h4>
+<p align="left">
+<b>Soft Skills:</b> Problem-Solving • Team Collaboration • Communication • Adaptability • Time Management • Critical Thinking
+</p>
+<p align="left">
+<b>SQA Skills:</b> Manual Testing • Test Planning • Test Case Writing • Bug Reporting • SDLC & STLC
+</p>
+<p align="left">
+<b>Also Familiar With:</b> HTML • CSS • Bootstrap • C++ • Java • ASP.NET Core • JWT • Figma • Linux • Newman
+</p>
+<p align="left">
+<b>Sports / Activities / Hobbies:</b><br>
+🏏 Cricket • ⚽ Football<br> • 🚗 Travelling<br> • 🎧 Listening to Music • 🎬 Watching Movies<br> • 🪴 Gardening
+</p>
+
+
 ### 📊 GitHub Analytics
 
 
